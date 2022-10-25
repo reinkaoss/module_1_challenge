@@ -12,7 +12,7 @@ When possible, "Divs" were used less and styling elements were grouped for a cle
 during the process I've learned the value of HTML Semantic Elements and how it affects a webpage's overall functionality depending on how the SEO algorithms interpret the elements on my website.
 I've also discovered that having cleaner and more organised code can benefit not only my own workflow but also that of any coworkers who may be working on the same repository.
 
-## Table of Contents (Optional)
+## Table of Contents 
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
